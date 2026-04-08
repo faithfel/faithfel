@@ -33,23 +33,25 @@
 # STATS
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=faithfel&theme=gruvbox&radius=10" alt="faithfel's Activity Graph" />
-</p>
-
-
-
-  <img src="https://streak-stats.demolab.com/?user=faithfel&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="faithfel's GitHub Streak" width="49%" />
-</p>
-<p align="center">
   <a href="https://github.com/faithfel">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faithfel&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faithfel&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="faithfel's GitHub Stats" />
   </a>
+  <img src="https://streak-stats.demolab.com/?user=faithfel&theme=dark&hide_border=true&cache_seconds=86400" alt="faithfel's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=faithfel&theme=dark&radius=10" alt="faithfel's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+<p align="center">
   <a href="https://github.com/faithfel">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faithfel&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="faithfel's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faithfel&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
+</p>
+
+
 
 
 
