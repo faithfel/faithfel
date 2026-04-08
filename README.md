@@ -1,6 +1,12 @@
+<div align="center">
+
+
+  
+# ⋆˙⟡ Hey, I'm Faith ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+
 ![kororon by eve music vid cover ](cover.png)
 
-<div align="center">
+
 
 # ⋆˙⟡Tech I Used: 
 <div align="center">
@@ -39,9 +45,6 @@
   <img src="https://streak-stats.demolab.com/?user=faithfel&theme=dark&hide_border=true&cache_seconds=86400" alt="faithfel's GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=faithfel&theme=dark&radius=10" alt="faithfel's Activity Graph" />
-</p>
 
 
 ## ⋆˙⟡TOP LANGUAGES 
