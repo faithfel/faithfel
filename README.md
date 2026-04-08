@@ -29,14 +29,26 @@
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 </div>
 
-# STATS
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faithfel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faithfel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/faithfel">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faithfel&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="faithfel's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=faithfel&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="faithfel's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=faithfel&theme=gruvbox&radius=10" alt="faithfel's Activity Graph" />
+</p>
 
-###
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/faithfel">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faithfel&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 
 
 
