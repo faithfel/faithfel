@@ -47,7 +47,7 @@
 
 
 
-## ⋆˙⟡TOP LANGUAGES 
+# ⋆˙⟡TOP LANGUAGES 
 <p align="center">
   <a href="https://github.com/faithfel">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faithfel&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
