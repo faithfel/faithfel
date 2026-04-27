@@ -6,7 +6,8 @@
 
 ![kororon by eve music vid cover ](cover.png)
 
-
+# ⋆˙⟡About Me: 
+An aspiring FullStack Web Developer 2nd Year BSCS student based in the Philippines.
 
 # ⋆˙⟡Tech I Used: 
 <div align="center">
