@@ -8,7 +8,7 @@
 
 # ⋆˙⟡About Me: 
 ### An aspiring FullStack Web Developer 3rd Year BSCS student based in the Philippines.
-I mainly use this account to post my school project and personal project I make for fun.
+I mainly use this account to post my school projects and personals project I make for fun.
 
 # ⋆˙⟡Tech I Used: 
 <div align="center">
