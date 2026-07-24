@@ -8,7 +8,7 @@
 
 # ⋆˙⟡About Me: 
 ### An Aspiring Software Engineer 3rd Year Computer Science Student based in the Philippines.
-I mainly use this account to post my school projects and personals project I make for fun.
+I mainly use this account to post my school projects and personal project I make for fun.
 
 # ⋆˙⟡Tech I Used: 
 <div align="center">
