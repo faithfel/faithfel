@@ -1,13 +1,11 @@
 <div align="center">
 
-
-  
 # ⋆˙⟡ Hey, I'm Faith ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 ![kororon by eve music vid cover ](cover.png)
 
 # ⋆˙⟡About Me: 
-### An Aspiring Software Engineer 3rd Year Computer Science Student based in the Philippines.
+### An Aspiring Software Engineer currently in my 3rd Year of Computer Science
 I mainly use this account to post my school projects and personal project I make for fun.
 
 # ⋆˙⟡Tech I Used: 
