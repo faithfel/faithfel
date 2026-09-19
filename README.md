@@ -15,7 +15,8 @@ I mainly use this account to post my school projects and personal project I make
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=faithfel&custom_title=--%E2%8B%86%CB%99%E2%9F%A1%20My%20GitHub%20Stats%20%E2%9F%A1%CB%99%E2%8B%86--&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=faithfel&custom_title=--%E2%8B%86%CB%99%E2%9F%A1%20My%20GitHub%20Stats%20%E2%9F%A1%CB%99%E2%8B%86--&show_icons=true&include_all_commits=true&theme=dark_github)
 
---⋆˙⟡ MY STREAK 🔥 ⟡˙⋆--
+# --⋆˙⟡ MY STREAK 🔥 ⟡˙⋆--
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=faithfel&theme=gruvbox-duo&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
 # --⋆˙⟡ MY TOP LANGUAGES ⟡˙⋆--
