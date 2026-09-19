@@ -17,12 +17,11 @@ I mainly use this account to post my school projects and personal project I make
 
 # --⋆˙⟡ MY STREAK 🔥 ⟡˙⋆--
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=faithfel&theme=gruvbox-duo&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faithfel&theme=transparent&border_radius=4)](https://git.io/streak-stats)
 
 # --⋆˙⟡ MY TOP LANGUAGES ⟡˙⋆--
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=faithfel&layout=donut&langs_count=10&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=faithfel&layout=donut&langs_count=10&theme=dark_github)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=faithfel&layout=compact&langs_count=10&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=faithfel&layout=compact&langs_count=10&theme=dark_github)
 
 
 
