@@ -13,20 +13,14 @@ I mainly use this account to post my school projects and personal project I make
 
 # --⋆˙⟡ MY STATS ⟡˙⋆--
 
-<p align="center">
-  <a href="https://github.com/faithfel">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faithfel&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="faithfel's GitHub Stats" />
-  </a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=faithfel&custom_title=--%E2%8B%86%CB%99%E2%9F%A1%20My%20GitHub%20Stats%20%E2%9F%A1%CB%99%E2%8B%86--&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=faithfel&custom_title=--%E2%8B%86%CB%99%E2%9F%A1%20My%20GitHub%20Stats%20%E2%9F%A1%CB%99%E2%8B%86--&show_icons=true&include_all_commits=true&theme=dark_github)
 
+--⋆˙⟡ MY STREAK 🔥 ⟡˙⋆--
 [![GitHub Streak](https://streak-stats.demolab.com?user=faithfel&theme=gruvbox-duo&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-# ⋆˙⟡TOP LANGUAGES 
-<p align="center">
-  <a href="https://github.com/faithfel">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faithfel&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+# --⋆˙⟡ MY TOP LANGUAGES ⟡˙⋆--
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=faithfel&layout=donut&langs_count=10&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=faithfel&layout=donut&langs_count=10&theme=dark_github)
 
 
 
