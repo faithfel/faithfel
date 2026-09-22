@@ -9,7 +9,7 @@
 
 # --⋆˙⟡ MY TECHSTACK ⟡˙⋆--
 
-![techstack raaaghhhhh!!](src/techstack.png)
+
 
 # --⋆˙⟡ MY STATS ⟡˙⋆--
 
