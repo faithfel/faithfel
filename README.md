@@ -9,7 +9,7 @@
 
 # --⋆˙⟡ MY TECHSTACK ⟡˙⋆--
 
-
+![i studied the blade(programming)](src/techstack.png)
 
 # --⋆˙⟡ MY STATS ⟡˙⋆--
 
