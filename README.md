@@ -4,22 +4,22 @@
 
 ![kororon by eve music vid cover ](src/cover.png)
 
-# --⋆˙⟡ ABOUT ME ⟡˙⋆--
+## --⋆˙⟡ ABOUT ME ⟡˙⋆--
   ╰┈➤ I'm an Aspiring Software Engineer. Currently in my 3rd year of college studying Computer Science.
 
-# --⋆˙⟡ MY TECHSTACK ⟡˙⋆--
+## --⋆˙⟡ MY TECHSTACK ⟡˙⋆--
 
 ![i studied the blade(programming)](src/techstack.png)
 
-# --⋆˙⟡ MY STATS ⟡˙⋆--
+## --⋆˙⟡ MY STATS ⟡˙⋆--
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=faithfel&custom_title=--%E2%8B%86%CB%99%E2%9F%A1%20My%20GitHub%20Stats%20%E2%9F%A1%CB%99%E2%8B%86--&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=faithfel&custom_title=--%E2%8B%86%CB%99%E2%9F%A1%20My%20GitHub%20Stats%20%E2%9F%A1%CB%99%E2%8B%86--&show_icons=true&include_all_commits=true&theme=dark_github)
 
-# --⋆˙⟡ MY STREAK 🔥 ⟡˙⋆--
+## --⋆˙⟡ MY STREAK 🔥 ⟡˙⋆--
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=faithfel&theme=transparent&border_radius=4)](https://git.io/streak-stats)
 
-# --⋆˙⟡ MY TOP LANGUAGES ⟡˙⋆--
+## --⋆˙⟡ MY TOP LANGUAGES ⟡˙⋆--
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=faithfel&layout=compact&langs_count=10&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=faithfel&layout=compact&langs_count=10&theme=dark_github)
 
